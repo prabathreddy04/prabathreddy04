@@ -7,7 +7,7 @@
 
 ### About Me  
 - 🌱 Currently diving deep into **Machine Learning**.  
-- 🛠️ Working on improving my **Grayscale Image Colorization Model**.  
+- 🛠️ Working on improving my **Glacier Retreat Visualization**.  
 - 💻 Strong in **C++**, with experience in **Python**, **C**, and **Java**.  
 - 🎨 Learning **HTML** and **CSS** for fun and to build visually appealing projects!  
 - 🧠 Passionate about solving complex problems and applying ML to real-world scenarios.  
@@ -31,7 +31,7 @@
 
 ### 🔭 Current Project  
 🎨 **Grayscale Image Colorization**  
-I'm working on improving my demo model to make it more robust and visually appealing. Stay tuned for updates!  
+I'm working on a project, glacier retreat analysis and visualization . 
 
 ---
 
